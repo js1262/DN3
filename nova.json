@@ -1,0 +1,64 @@
+{
+  "persons": {
+    "Alice": {
+      "name": "Alice",
+      "age": 31,
+      "married": true,
+      "employed": false
+    },
+    "Bob": {
+      "name": "Bob",
+      "age": 40,
+      "married": true,
+      "employed": true
+    },
+    "Charlie": {
+      "name": "Charlie",
+      "age": 26,
+      "married": true,
+      "employed": false
+    },
+    "David": {
+      "name": "David",
+      "age": 32,
+      "married": false,
+      "employed": false
+    },
+    "Eve": {
+      "name": "Eve",
+      "age": 29,
+      "married": false,
+      "employed": false
+    },
+    "Fay": {
+      "name": "Fay",
+      "age": 38,
+      "married": false,
+      "employed": false
+    },
+    "Grace": {
+      "name": "Grace",
+      "age": 46,
+      "married": true,
+      "employed": true
+    },
+    "Heidi": {
+      "name": "Heidi",
+      "age": 31,
+      "married": true,
+      "employed": true
+    },
+    "Ivy": {
+      "name": "Ivy",
+      "age": 22,
+      "married": true,
+      "employed": true
+    },
+    "Judy": {
+      "name": "Judy",
+      "age": 26,
+      "married": false,
+      "employed": true
+    }
+  }
+}
